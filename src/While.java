@@ -154,7 +154,5 @@ public class While {
             System.out.println(c2);
             c2++;
         } while (c2 < 5);
-
-
     }
 }
